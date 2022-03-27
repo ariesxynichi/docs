@@ -1,9 +1,9 @@
----
-title: Quickstart for Codespaces
-intro: 'Try out {% data variables.product.prodname_codespaces %} in 5 minutes.'
+Aries ---
+title: ksjksj
+intro: Hi, Hello, Welcome to shitty group. Have a nice day.🥳
 allowTitleToDifferFromFilename: true
-product: '{% data reusables.gated-features.codespaces %}'
-versions:
+product: 0
+versions: wla.
   fpt: '*'
   ghec: '*'
 type: quick_start
